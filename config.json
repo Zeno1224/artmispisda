@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
-	"port": "25565",
-	"name": "NRBot",
-	"auto-night-skip":"false"
+	"ip":"SMP_32682.aternos.me",
+	"port": "32682",
+	"name": "artmispisda",
+	"auto-night-skip":"true"
 }
